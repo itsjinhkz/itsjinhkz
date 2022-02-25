@@ -63,13 +63,13 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">❤️ Where to find me ❤️</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
 
   <a href="https://facebook.com/itsjinhk" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="itsjinhk-facebook" />
+    <img src="https://img.icons8.com/doodle/100/000000/facebook-new.png"/>
   </a>
   <!-- <a href="https://www.youtube.com/c/itsjinhkOfficial" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="itsjinhk-youtube" />
@@ -78,10 +78,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="itsjinhk-linkedin" />
   </a> -->
   <a href="https://instagram.com/itsjinhk" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="itsjinhk-instagram" />
+    <img src="https://img.icons8.com/doodle/100/000000/instagram--v1.png"/>
   </a>
   <a href="mailto:itsjinhk@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="itsjinhk-email" />
+    <img src="https://img.icons8.com/doodle/100/000000/apple-mail.png"/>
   </a>
 </div>
 
