@@ -80,7 +80,7 @@
   <a href="https://instagram.com/itsjinhk" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="itsjinhk-instagram" />
   </a>
-  <a href="mailto:itsjinhk.official@gmail.com" target="top">
+  <a href="mailto:itsjinhk@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="itsjinhk-email" />
   </a>
 </div>
